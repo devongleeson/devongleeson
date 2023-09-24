@@ -24,10 +24,3 @@ Strong team leadership skills with a track record of facilitating cross team col
 
 ### Open Source Projects
 - [whodevil/offthecob-platform](https://github.com/whodevil/offthecob-platform)
-
-### Contact Information
-<div id="badges">
-  <a href="https://www.linkedin.com/in/devongleeson/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
