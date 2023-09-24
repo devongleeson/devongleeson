@@ -7,7 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devongleeson/devongleeson/blob/main/resources/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"  title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
