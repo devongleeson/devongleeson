@@ -1,3 +1,6 @@
+### About
+Strong team leadership skills with a track record of facilitating cross team collaboration. Can translate business requirements into an executable plan that delivers on time. Productive in JVM Languages (Java, Kotlin, Groovy), Python and JavaScript/TypeScript (React). Expertise in Software Architecture, Web Services, Infrastructure as Code, Message Buses, Data Science, Kubernetes, and Observability.
+
 ### Proficiencies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,3 +24,10 @@
 
 ### Open Source Projects
 - [whodevil/offthecob-platform](https://github.com/whodevil/offthecob-platform)
+
+### Contact Information
+<div id="badges">
+  <a href="https://www.linkedin.com/in/devongleeson/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
