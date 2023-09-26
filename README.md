@@ -1,6 +1,3 @@
-### About
-Strong team leadership skills with a track record of facilitating cross team collaboration. Can translate business requirements into an executable plan that delivers on time. Productive in JVM Languages (Java, Kotlin, Groovy), Python and JavaScript/TypeScript (React). Expertise in Software Architecture, Web Services, Infrastructure as Code, Message Buses, Data Science, Kubernetes, and Observability.
-
 ### Proficiencies
 <div>
   <a href="https://openjdk.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
