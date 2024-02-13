@@ -15,7 +15,7 @@
   <a href="https://kafka.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/></a>&nbsp;
   <a href="https://activemq.apache.org/"><img src="https://github.com/devongleeson/devongleeson/blob/main/resources/activemq.svg" title="ActiveMQ" alt="ActiveMQ" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 </div>
 
