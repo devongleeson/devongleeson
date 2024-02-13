@@ -9,7 +9,7 @@
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/"><img src="https://github.com/devongleeson/devongleeson/blob/main/resources/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
   <a href="https://spark.apache.org/"><img src="https://github.com/devongleeson/devongleeson/blob/main/resources/spark.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/></a>&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
   <a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"  title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a>&nbsp;
   <a href="https://www.terraform.io/"><img src="https://github.com/devongleeson/devongleeson/blob/main/resources/terraform.svg" title="Terraform" alt="Terraform" width="40" height="40"/></a>&nbsp;
   <a href="https://kafka.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/></a>&nbsp;
