@@ -18,6 +18,3 @@
   <a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 </div>
-
-### Open Source Projects
-- [whodevil/offthecob-platform](https://github.com/whodevil/offthecob-platform)
